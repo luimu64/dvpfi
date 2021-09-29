@@ -11,7 +11,7 @@ xkb_symbols "dvpfibase" {
 
     key <AC05> { [	    i,	    I		]	};
 
-    key <AB01> { [ apostrophe,	    quotebl,	dead_acute,	dead_doubleacute ]};
+    key <AB01> { [ apostrophe,	    quotedbl,	dead_acute,	dead_doubleacute ]};
     key <AB02> { [	    q,	    Q		]	};
     key <AB03> { [	    j,	    J		]	};
     key <AB04> { [	    k,	    K		]	};
