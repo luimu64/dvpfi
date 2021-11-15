@@ -48,7 +48,8 @@ NOTE: This install method replaces your layout definitions with mine (from recen
 </layoutList>
 ```
 
-I also haven't figured out how to prevent updates from overwriting the changes.
+I also haven't figured out how to prevent updates from overwriting the changes so if you only 
+do these changes next update that changes `evdev.xml` requires you to copy/edit it again. If you know way to make it persistent create an issue.
 
 ## MacOS
 
