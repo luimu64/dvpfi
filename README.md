@@ -1,7 +1,7 @@
 # Finnish variation of programmer Dvorak 
 
-I got interested in custom layouts and there wasn't programmer Dvorak made with finnish support so I made this.
-The implementation is exactly same as Arkkudvorak so the layout utilizes the extra key under A letter to include both ä and ö using shift and Altgr a and o to get the capital variants.
+I got interested in Programmer Dvorak but it wasn't usable with finnish so I made this.
+The implementation is exactly same as Arkkudvorak so the layout utilizes the extra key under A letter to include both ä and ö using shift and Altgr a and o to get the capital variants. This obviously requires you to have nordic-ISO board or you won't have the extra key.
 
 # Installation
 
