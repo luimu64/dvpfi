@@ -15,6 +15,8 @@ Head to releases tab and downlod the latest zip, then run the exe and select the
 
 ### Portable/non-admin installing
 
+#### Note: This is just normal non-finnish programmer dvorak without any changes, the layout file and these instructions are here only for convenience.
+
 1. Download this repo and [this](https://github.com/DreymaR/BigBagKbdTrixPKL) repo as zip and unzip them. 
 2. Copy over windows/Dvk-eD_ISO_SymFI into `<EPKL root>/layout/Dvorak` (the whole folder, not the layout.ini inside of it).
 3. Run `Compile_EPKL.bat` to make executable and run it.
