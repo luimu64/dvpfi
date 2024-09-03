@@ -35,6 +35,15 @@ $ cd dvpfi/linux
 $ sudo python install.py
 ```
 
+### Installation on fedora based immutable distros
+
+```
+$ git clone "https://github.com/luimu64/dvpfi"
+$ cd dvpfi/linux
+$ sudo rpm-ostree install --force-replacefiles custom-xkb-files-1.0-1.fc40.noarch.rpm
+```
+Supposedly `rpm-ostree override replace` would be the correct command for this but I could not get it to work.
+
 ### Manual Installing
 1. Download/Clone this repository and unzip it if needed.
 2. Copy `dvpfi` to `/usr/share/X11/xkb/symbols` and `evdev.xml` to `/usr/share/X11/xkb/rules`.
